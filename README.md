@@ -11,15 +11,22 @@ The runtime of different algorithms differs with the input size n. Let’s consi
   
   If n=7,
   
-    log n = 0.845
+ Logarithmic-time function =  log n = 0.845
   
-    n = 7
+ Linear-time function =  n = 7
   
-    n<sup>2</sup> = 49
+ Quadratic-time function =  n<sup>2</sup> = 49
   
-    n<sup>3</sup> = 343
+ Cubic-time function =  n<sup>3</sup> = 343
   
-    n<sup>4</sup> = 2401
+ Polynomial-time function = n<sup>4</sup> = 2401
   
   
+  ## Relative Time Required for a Function
+  Low ----> High required time: 
+  
+  Logarithmic --> Linear --> Quadratic --> Cubic --> Higher Polynomials (k = 4,5,6,...)
+  
+  
+ Therefore, from the aforementioned functions, logarithmic order algorithmic is the best and most efficient relatively.
   
